@@ -1,0 +1,5 @@
+gmail_username=testellen471@gmail.com
+gmail_password=Ankitakl#19
+gmail_from=appointments@crystalrunhealthcare.com
+to=testellen471@gmail.com
+gmail_port=587
